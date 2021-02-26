@@ -34,4 +34,4 @@ The code is breifly explained below.
 The Code can be run on any java complier and you may need to change the path of file for the input before running it.
 The input files and the resulting output files are in the repository.
 
-Our solution scored 8,977,042
+## Our solution scored 8,977,042
